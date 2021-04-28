@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Обучение работе в ФГИС Меркурий
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+- Обучим Ваших сотрудников основным функциям системы: гашение ВСД, оформление ВСД на перемещение, аннулирование ВСД, формирование производственных ВСД.
+
+- Консультации по различным вопросам ФГИС Меркурий.

@@ -2,7 +2,13 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Работа в ФГИС Меркурий
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+- Обслуживание Вашего предприятия в системе ФГИС Меркурий: розница, опт, переработка.
+
+- Аудит предприятий на соответствие ветеринарных требований.
+
+- Представление Ваших интересов при проведении надзорных мероприятий (проверок) РСХН.
+
+- Подготовка предприятия к обследованию на предмет соответствия требованиям Таможенного Союза (ТС), требованиям иных стран, определения зоосанитарного статуса предприятия (компартментализация).
