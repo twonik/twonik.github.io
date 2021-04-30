@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: mercury-work.webp
 category: Services
 title: Работа в ФГИС Меркурий
 description: |

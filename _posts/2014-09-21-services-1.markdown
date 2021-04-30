@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: mercury-login.webp
 category: Services
 title: Регистрация в ФГИС Меркурий:<br>
 description: |
